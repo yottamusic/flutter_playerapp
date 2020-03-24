@@ -1,10 +1,12 @@
 # flutter_playerapp
 
-YottaMusic Player App developed in Flutter. Forked from <a href="https://github.com/avirias/Grey">avirias/Grey </a> and modified based on requirements. 
+YottaMusic Player App developed in Flutter. 
+<br>
+Forked from <a href="https://github.com/avirias/Grey">avirias/Grey </a> and modified based on requirements. 
 <br>
 All thanks to Aman Gautam,check his repo <a href="https://github.com/amangautam1/flutter-musicplayer" >here</a>
 <br>
-Download releases <a href="https://github.com/avirias/Grey/releases">here</a>.
+Download releases <a href="https://github.com/yottamusic/flutter_playerapp/releases">here</a>.
 
 # Work In Progress
 1. DLNA Player
